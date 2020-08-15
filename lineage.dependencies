@@ -1,7 +1,12 @@
 [
   {
-    "repository": "djeman/android_device_samsung_sharkls-common",
+    "repository": "sieyron/android_device_samsung_sharkls-common",
     "target_path": "device/samsung/sharkls-common",
+    "revision": "cm-14.1"
+  },
+  {
+    "repository": "sieyron/android_vendor_samsung_j1acevelte",
+    "target_path": "vendor/samsung/j1acevelte",
     "revision": "cm-14.1"
   }
 ]
